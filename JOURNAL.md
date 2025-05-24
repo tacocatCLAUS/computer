@@ -1,3 +1,10 @@
+---
+title: "f1laptop"
+author: "f1shticks"
+description: "DIY Laptop powered by framework."
+created_at: "2025-05-21"
+---
+
 Total time: 5 hours
 
 # May 22th:
