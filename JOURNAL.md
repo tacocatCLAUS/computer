@@ -23,9 +23,9 @@ Ive been waiting for an oppurtunity to create one of these but especially includ
 I imported the bottom design files of the BenMakesEverything case and traced the body and screw holes to get the base.
 
 Model Progress:
-![image](/assets/base%20#1.png)
+![base #1](https://github.com/user-attachments/assets/f51792d4-027f-412a-a906-42774ec7267a)
 
 Then I brainstormed a hinge mechnism and came up with this:
-![image](/assets/hinge.png)
+![hinge](https://github.com/user-attachments/assets/38a8428d-8099-4ea8-80d6-7ad70c207a42)
 
 ### Time today: 3 hours
