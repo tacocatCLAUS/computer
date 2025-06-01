@@ -7,7 +7,7 @@ created_at: "2025-05-21"
 
 Total time: 5 hours
 
-# May 22th:
+# May 22nd:
 I got started brainstorming and designing the project. I took alot of my insporation from the cyberdeck design of BenMakesEverything but felt it was lacking in a couple ways. 
 
 I think that the best way begin this is to set some goals for the  ***f1laptop:***
@@ -19,7 +19,8 @@ Ive been waiting for an oppurtunity to create one of these but especially includ
 
 ### Time today: 2 hours
 
-# May 23th:
+
+# May 23rd:
 I imported the bottom design files of the BenMakesEverything case and traced the body and screw holes to get the base.
 
 Model Progress:
@@ -29,3 +30,19 @@ Then I brainstormed a hinge mechnism and came up with this:
 ![hinge](https://github.com/user-attachments/assets/38a8428d-8099-4ea8-80d6-7ad70c207a42)
 
 ### Time today: 3 hours
+
+
+# May 27th:
+Turned the 2d base into a 3d case so now a motherboard can go in and be protected.
+
+
+### Time today: 3 hours
+
+
+# June 1st:
+Realized that to keep size reasonable, I need to but the battery above the motherboard which will cause heating issues so I will need to add fan mounts as well as some kind of heat dissapation and insulation for the battery.
+
+Model Progress:
+
+
+### Time today: 2 hours
